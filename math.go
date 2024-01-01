@@ -7,7 +7,7 @@ func main() {
 }
 
 func soma(a int, b int) int {
-	return a + b
+	return a + b + 1
 }
 
 func testePullRequest() void {
